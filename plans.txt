@@ -12,9 +12,9 @@
 **
 We'll be working in different branches. To switch to a specific branch -> git checkout [name of branch]
 
-Everytime you finish a small bit of your task -> git add filename, git commit -m "meaningful message"
+*Everytime you finish a small bit of your task -> git add filename, git commit -m "meaningful message"
 
-When you finish your task -> git push
+*When you finish your task -> git push
 
 After someone pushed -> git pull (everyone else)
 
@@ -23,4 +23,6 @@ After someone pushed -> git pull (everyone else)
 
 Git resource - https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
 
+
+Mini-exercise: Add your name to the list and follow the steps in * to push it to the repo
 a. Harrison
