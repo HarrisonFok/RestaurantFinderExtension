@@ -1,0 +1,18 @@
+1. Set up Git
+
+2. Finish the YouTube series on Chrome extension
+
+3. Design front-end (HTML, CSS, JavaScript, Bootstrap)
+- will discuss later about the splitting of tasks**
+
+4. Design back-end 
+- don't know how but we'll figure it out
+- prob need Google Maps API
+
+**
+We'll be working in different branches
+Everytime you finish a small bit of your task -> git add filename, git commit -m "meaningful message"
+When you finish your task -> git push
+After someone pushed -> git pull (everyone else)
+
+Git resource - https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
