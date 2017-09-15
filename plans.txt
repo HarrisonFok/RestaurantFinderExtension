@@ -26,3 +26,4 @@ Git resource - https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-
 
 Mini-exercise: Add your name to the list and follow the steps in * to push it to the repo
 a. Harrison
+b. Bani
